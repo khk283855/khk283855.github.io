@@ -12,19 +12,10 @@ comments: false
 * 이름: 김현규
 * 소속: 제주대학교 컴퓨터공학전공
 * 학번: 2019208017
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## 소개
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+전에 있던 학교에서 졸업 후 작년에 이 제주대학교 3학년으로 편입을오게된 김현규입니다. 전에 있던 학교에서도 컴퓨터 관련 학과를 나왔기에 편입을 결정할 때 이 컴퓨터공학을 선택하게 되었습니다. 큰 문제없이 다녀왔지만 확실한 건 자신의 실력을 체감하는 날이 많았습니다. 그렇기에 더 다양한 분야를 보고 관심을 가지게 된 것도 알 수 있게 되었습니다. 그 중 하나가 보안 관련 내용이었는데 도서관에서 발견하게 된 계기로 그 내용을 좀 더 알고 싶어지게 되었습니다. 정말 단순히 흥미가 아닌 후에 자신의 것으로 이어가고 싶어져 관련 교육 프로그램에 지원하는 도전을 하면서 공부를 이어나가고 있습니다.
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+
