@@ -1,7 +1,8 @@
 ---
-layout: post-list
+layout: page
 title: 건드려 본 프로그래밍 언어
-excerpt: "A List of Posts"
+tags: [posts, Jekyll, theme, moon]
+date: 2016-03-21
 comments: false
 ---
 
